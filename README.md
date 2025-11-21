@@ -6,3 +6,5 @@ I have already pretrained the model used in the notebook, and can be found publi
 instead of training your own!
 
 https://drive.google.com/file/d/1bS_UVQy2R97BDAhr1MBkXyC3FjmTK2YL/view?usp=sharing
+
+or https://drive.google.com/file/d/1NFiemtf2SvmCzNRE7aD9fhAjZ3pHXMXm/view?usp=sharing for RL (Mine)
